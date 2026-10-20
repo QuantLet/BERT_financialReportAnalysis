@@ -13,9 +13,9 @@ Description: To extract and via word embedding methods to visualise financial re
 
 Keywords: BERT, w2v, GLOVE, text analysis, LLE, dimension reduction
 
-Author: Francis Liu
+Author: Francis Liu, WK Härdle
 
-Submitted: 12 March 2020
+Submitted: 20260923 added https://projector.tensorflow.org example of the Hierarchical Clustering TSV files
 
 ```
 <div align="center">
